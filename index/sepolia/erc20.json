@@ -6,6 +6,528 @@
   "keywords": ["erc20", "sepolia"],
   "timestamp": "2021-12-08T19:03:47.288Z",
   "tokens": [
+        {
+          "chainId": 11155111,
+          "address": "0xf487b060235cd4F43301b4a8193396bfbBb5BBf9",
+          "name": "USDC",
+          "symbol": "tUSDC",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+          "extensions": {
+            "link": "https://www.circle.com/en/usdc",
+            "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy. ",
+            "ogImage": "https://www.circle.com/hubfs/share-USDC.png#keepProtocol"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x9e91b281aF0fA71b2382CD80CE44c8cFA1a79566",
+          "name": "SpaceDawgs",
+          "symbol": "DAWGS",
+          "decimals": 9,
+          "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x9944FA8C4A35331B0A7229CeF0DC061A8b5CAF5C",
+          "name": "Shiba Inu",
+          "symbol": "SHIB",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/11939/large/SHIBLOGO.png?1600752116",
+          "extensions": {
+            "link": "https://shibatoken.com/",
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x9ef870fDf44fAD7eF6DBcfaA68BeF95025721Bd7",
+          "name": "tDAI Test",
+          "symbol": "tDAI",
+          "decimals": 18,
+          "logoURI": "https://assets.sequence.info/YBzz5Q_O/images/tokens/dai-token.png",
+          "extensions": {
+            "link": "https://makerdao.com/",
+            "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
+            "ogImage": "https://makerdao.com/dai.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x55557a13A7F52C0C8FD65252D0f2A9642285de96",
+          "name": "FRAX",
+          "symbol": "FRAX",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/13422/large/frax_logo.png?1608476506",
+          "extensions": {
+            "link": "https://frax.finance",
+            "description": "The first fractional-algorithmic stablecoin",
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x6175a8471C2122f778445e7E07A164250a19E661",
+          "name": "USDT Token",
+          "symbol": "USDT",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707",
+          "extensions": {
+            "link": "https://tether.to/",
+            "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en...",
+            "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xA4e046D0D4EecB76EdaC8C5aD5464232569D2DDc",
+          "name": "Pepe",
+          "symbol": "PEPE",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xb227f007804c16546Bd054dfED2E7A1fD5437678",
+          "name": "ChainLink Token",
+          "symbol": "LINK",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1547034700",
+          "extensions": {
+            "link": "https://chain.link/",
+            "description": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin’s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora’s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they’re trying to improve.\r\n\r\nChainlink’s first component consists of on-chain contracts deployed o...",
+            "ogImage": "https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5fa2e075cfcf344baa0e9063_chainlink-open-graph-images_home%20(with%20illustration).png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xf3E9D12f14dd9038E0DCF04AA4064F1E71646DaC",
+          "name": "Binance USD",
+          "symbol": "BUSD",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png?1568947766",
+          "extensions": {
+            "link": "https://www.paxos.com/busd/",
+            "description": "Binance USD (BUSD) is a stable coin pegged to USD that has received approval from the New York State Department of Financial Services (NYDFS). BUSD will be available for direct purchase and redemption at a rate of 1 BUSD = 1 USD. ",
+            "ogImage": "https://www.paxos.com/wp-content/uploads/2019/09/busd_logo_black_flushleft-300x138.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x3f1191d301FCCA994c61748Cb8D503f9D6c94D40",
+          "name": "Arbitrum",
+          "symbol": "ARB",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x65fe02BA5a22eB08780d1AA25fb0Cb1dd23B5fc5",
+          "name": "APEcoin",
+          "symbol": "APE",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/12665/large/apecoin_logo.jpg?1601459267",
+          "extensions": {
+            "link": "https://apecoin.dev/",
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xa59dfcc37Bb4F574f78FdB16aB27Eab22a18E768",
+          "name": "TEST UNFXBIT Cronos",
+          "symbol": "CRO",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/7310/large/cypto.png?1547043960",
+          "extensions": {
+            "link": "https://www.crypto.com/en/chain",
+            "description": "We propose Crypto.com Chain, the next generation decentralized mobile payment protocol, the most efficient and secure way to pay and be paid in crypto, anywhere, any crypto\r\nwithout fees. Crypto.com Chain will deliver on its vision by developing innovative technology components and processes (inc. scalable encryption algorithm to protect users’ privacy, utilizing trusted execution environments, sustainable price stability mechanisms, user protection via PoGSD) catered specifically to cryptocurrency payment, while leveraging proven blockchain technology structural design elements. ",
+            "ogImage": "https://chain.crypto.com/crypto-com-chain.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xbe0f61f950C32D5627cd7E3487E4c065a3cD143A",
+          "name": "chiliZ",
+          "symbol": "CHZ",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x71D141E777fBA871D4E1CeD575ABBFE3602Fc08f",
+          "name": "HEX",
+          "symbol": "HEX",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/10103/large/HEX-logo.png?1575942673",
+          "extensions": {
+            "link": "https://hex.com",
+            "description": "Launched on December 2, 2019 by Richard Heart and team, HEX is the first certificate of deposit on the blockchain, essentially time deposits that gain interest, HEX is an ERC20 Token that runs over the Ethereum network\r\n",
+            "ogImage": "https://hex.com/img/TwitterCard_Main_V3.jpg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xb6f282A0d9b2f4C508e4ef372a7a3598ac961d10",
+          "name": "GRT",
+          "symbol": "GRT",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/11022/large/golden_ratio_token.png?1592811112",
+          "extensions": {
+            "link": "https://goldenratiotoken.site/",
+            "description": "GoldenRatio Token (GRT) project is an experiment which has no funding, to prove the importance of a quality community in a crypto related project.\r\n\r\nOur goal is to create value into the project which will flow back into the crypto community benefiting other projects. Therefore our supply will be distributed among active people contributing to the global crypto community.\r\n\r\nThe experiment is also aimed to be established as a viable project within 90 days. We aim to achieve this by creating several mechanisms and use cases.\r\n\r\nEverything will be given away to the people who are already building the crypto economy.\r\n\r\nAll the GoldenRatio Tokens (GRT) will be given away to active contributors of any other high quality crypto related projects.",
+            "ogImage": "https://goldenratiotoken.site/wp-content/uploads/2020/04/golden-ratio-logo-featured-image.jpg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x804F2160ca8F886B0c06c2290ACfDb5a31AA32b5",
+          "name": "OKB",
+          "symbol": "OKB",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/4463/large/okb_token.png?1548386209",
+          "extensions": {
+            "link": "https://www.okex.com/okb",
+            "description": "<a href=\"https://www.coingecko.com/en/exchanges/okex\">OKEx</a>, the 2nd most popular cryptocurrency exchange by trading volume, launched its platform token ‘OKB‘ today with 10 trading pairs. On its official support page, OKEx describes OKB is a global utility token issued by the OK Blockchain Foundation. The total available supply of OKB will be one billion tokens (1,000,000,000), with a distribution model that allocates 60% of the supply will be given out to OKEx customers for community building and during marketing campaigns. According to OKEx, the company had officially issued OKB on ERC20 protocol earlier this month. \r\n\r\nThe company denied ICO (initial coin offering) and public fundraising. Reportedly the company had stated that it would be soon shifting the token to its official OK chain and subsequently it will be applied not only on OKEx’s platform but also on other related projects. There will be in total 1 billion tokens supplied globally out of which 600 million coins will...",
+            "ogImage": "https://static.coinall.ltd/cdn/assets/imgs/207/95EDC6DD5D3CBDF8.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x5E0350d43423B8cD5304A237c723ACcd37a3ACEa",
+          "name": "Polygon Token",
+          "symbol": "MATIC",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/4713/large/Matic.png?1553498071",
+          "extensions": {
+            "link": "https://matic.network",
+            "description": "Matic Network provides scalable, secure and instant Ethereum transactions. It is built on an implementation of the PLASMA framework and functions as an off chain scaling solution. Matic Network offers scalability solutions along with other tools to the developer ecosystem, which enable Matic to seamlessly integrate with dApps while helping developers create an enhanced user experience.",
+            "ogImage": "/banners/matic-network-1x1.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x37c01378Cd19582Bd3Ed85E24d39F2B87728201D",
+          "name": "Maker",
+          "symbol": "MKR",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/1364/large/Mark_Maker.png?1585191826",
+          "extensions": {
+            "link": "https://makerdao.com/",
+            "description": "MKR is a cryptocurrency depicted as a smart contract platform and works alongside the Dai coin and aims to act as a hedge currency that provides traders with a stable alternative to the majority of coins currently available on the market. Maker offers a transparent stablecoin system that is fully inspectable on the Ethereum blockchain. Founded almost three years ago, MakerDao is lead by Rune Christensen, its CEO and founder. Maker’s MKR coin is a recent entrant to the market and is not a well known project. However, after today it will be known by many more people after blowing up 40% and it is one of the coins to rise to prominence during the recent peaks and troughs.\r\n\r\nAfter being developed by the MakerDAO team, Maker Dai officially went live on December 18th, 2017. Dai is a price stable coin that is suitable for payments, savings, or collateral and provides cryptocurrency traders with increased options concerning opening and closing positions. Dai lives completely on the blockch...",
+            "ogImage": "https://makerdao.com/dai.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x25d062e1E7771520d9dca84dec3C2e68A3654966",
+          "name": "Decentraland",
+          "symbol": "MANA",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/878/large/decentraland-mana.png?1550108745",
+          "extensions": {
+            "link": "https://decentraland.org/",
+            "description": "Decentraland is an Ethereum-powered virtual reality platform. In this virtual world, you purchase plots of land that you can later traverse, build upon, and monetize. There’s no limit to what you can do. It’s the first digital platform that’s completely owned by its users. Similar to games like Skyrim and Fallout, Decentraland is an all-immersive virtual universe. However, instead of playing on a 2-dimensional screen, you participate in a 3-dimensional world. It seems to be the logical next step before creating full-blown AI-based games in the physical space à la Westworld. Similar groupings on LAND comprise Districts. Districts are basically communities that revolve around a shared theme. For example, there may be a District just for crypto enthusiasts with cryptocurrency apps and services.\r\n\r\nThe Decentraland team is led by Ari Meilich (Project Lead) and Esteban Ordano (Tech Lead). Ordano previously worked at <a href=\"https://bitpay.com/\">Bitpay</a> as a software engineer and foun...",
+            "ogImage": "/static/scenes4-2ef0a5fdf1ed8717a126299d0a46f3b5.jpg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x50dfef7dd39A63469c9039bF54bFF6e4f5C01Cf1",
+          "name": "Paxos Gold",
+          "symbol": "PAXG",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/9519/large/paxg.PNG?1568542565",
+          "extensions": {
+            "link": "https://www.paxos.com/paxgold/",
+            "description": "PAX Gold (PAXG) is an asset-backed token where one token represents one fine troy ounce of a London Good Delivery gold bar, stored in professional vault facilities. Anyone who owns PAXG has ownership rights to that gold under the custody of Paxos Trust Company. Since PAXG represents physical gold, its value is tied directly to the real-time market value of that physical gold.\r\n\r\nPAXG gives customers the benefits of actual physical ownership of specific gold bars with the speed and mobility of a digital asset. Customers are able to have fractional ownership of physical bars. On the Paxos platform, customers can convert their tokens to allocated gold, unallocated gold, or fiat currency (and vice versa) quickly and efficiently, reducing their exposure to settlement risk. PAXG is also available for trading on Paxos’ itBit exchange. PAXG will also be available on other crypto-asset exchanges, wallets, lending platforms and elsewhere within the crypto ecosystem. \r\n\r\nAt any time, PAXG hold...",
+            "ogImage": "https://www.paxos.com/wp-content/uploads/2019/07/PAX-Gold_Logo-1.svg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x7f25Ce8b6b2B18Ff82d81c8D40815948B6A4DC39",
+          "name": "Wrapped Bitcoin",
+          "symbol": "WBTC",
+          "decimals": 8,
+          "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1548822744",
+          "extensions": {
+            "link": "https://www.wbtc.network/",
+            "description": null,
+            "ogImage": "https://wbtc.network/assets/WBTC-icon.svg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+          "name": "Tether Gold on Sepolia",
+          "symbol": "XAUt",
+          "decimals": 6,
+          "logoURI": "https://assets.coingecko.com/coins/images/10481/large/tether-gold.png?1579946148",
+          "extensions": {
+            "link": "https://tether.to/",
+            "description": "Each XAU₮ token represents ownership of one troy fine ounce of physical gold on a specific gold bar. XAU₮, which is available as an ERC-20 token on the Ethereum blockchain and as a TRC20 token on the TRON blockchain, can be transferred to any on-chain address from the purchasers’ Tether wallet. Furthermore, Tether Gold (XAU₮) is the only product among the competition that offers zero custody fees and has direct control over the physical gold storage, safely held in a Switzerland vault, adopting best in class security and anti-threat measures. Today, Tether Gold (XAU₮) is the best way to hold Gold. ",
+            "ogImage": "https://tether.to/wp-content/uploads/2020/09/tether-preview.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x1138a60211eAD0996E8c0F6c925ee9E61368Ac86",
+          "name": "Fantom Token Mock",
+          "symbol": "FTM",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/4001/large/Fantom.png?1558015016",
+          "extensions": {
+            "link": "http://fantom.foundation",
+            "description": "FANTOM is a new DAG based Smart Contract platform that intends to solve the scalability issues of existing public distributed ledger technologies. \r\n\r\nThe platform intends to distinguish itself from the traditional block ledger-based storage infrastructure by attempting to employ an improved version of existing DAG-based pro-tocols. The FANTOM platform adopts a new protocol known as the “Lachesis Protocol” to maintain consensus. This protocol is intended to be integrated into the Fantom OPERA Chain. The aim is to allow applications built on top of the FANTOM OPERA Chain to enjoy instant transactions and near zero transaction costs for all users. \r\n\r\nThe mission of FANTOM is to provide compatibility between all transaction bodies around the world, and create an ecosystem which allows real-time transactions and data sharing with low cost.",
+            "ogImage": "https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2021/01/19225127/Fantom-1.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x5424361319c8586a0d5b675E39a09CA98e386834",
+          "name": "Injective",
+          "symbol": "INJ",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/12882/large/injective_logo.jpg?1603255762",
+          "extensions": {
+            "link": "https://injectiveprotocol.com/",
+            "description": null,
+            "ogImage": "https://www.injectiveprotocol.com/img/og/og.jpg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x146b9313843D9F144ccA87f72e7F017E4066166A",
+          "name": "Quant",
+          "symbol": "QNT",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/3370/large/QNT.jpg?1547038004",
+          "extensions": {
+            "link": "https://www.quant.network",
+            "description": "London-based Quant Network is set to revolutionise blockchain technology with the development of their blockchain operating system Overledger. The experienced team are determined to fulfil the original vision of the internet by creating an open trusted network for people, machines, and data to operate securely and safely.\r\n\r\nOverledger -the first interoperable blockchain operating system that facilitates internet-scale development of decentralised, multi-chain applications. Overledger has the ability to unlock and distribute value and applications across current and future blockchains. It is an agnostic platform that connects the world's networks to blockchains and ensures you're not limited to any single a vendor or technology. Overledger is the only platform that facilitates the development of internet-scales development of decentralised, multi-chain applications.",
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xE25b7Cd79763065545D42f17FBa3fFCb07d15ED8",
+          "name": "Rocket Pool Protocol",
+          "symbol": "RPL",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/2090/large/rocket.png?1563781948",
+          "extensions": {
+            "link": "https://www.rocketpool.net",
+            "description": "Rocket Pool is a next generation decentralised staking network and pool for Ethereum 2.0\r\n\r\nRocket Pool is a self-regulating network of node operators; it automatically adjusts its capacity to match demand. The Rocket Pool protocol token is used to maintain an optimal capacity by:\r\nIncreasing capacity when needed, by incentivising node operators to join.\r\nDecreasing capacity when not needed, by disincentivising node operators from joining.\r\n\r\nIn addition to depositing ETH, a node operator is required to deposit a set amount of RPL per ether they are depositing. This RPL:ether ratio is dynamic and is dependent on the network utilisation. E.g:\r\nIf the network has plenty of capacity, then node operators need more RPL to make deposits. It gets progressively more expensive in terms of RPL to make node deposits when the network does not have enough ETH from regular stakers to be matched up with node operators. This helps prevent several attack vectors outlined in the whitepaper and keeps ...",
+            "ogImage": "https://www.rocketpool.net/images/rocket-pool-logo-icon.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xc3E0D1FC62A7Ac4b4d543EEBFBE4EBB204C4218a",
+          "name": "Render Token",
+          "symbol": "RNDR",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/11636/large/uTDd98ZN_400x400.jpg?1592200150",
+          "extensions": {
+            "link": "https://rendertoken.com/",
+            "description": "OctaneRender® is the world’s first and fastest GPU-accelerated, unbiased, physically correct renderer. Octane uses the graphics card in your computer to render photo-realistic images super fast. With Octane’s parallel compute capabilities, you can create stunning works in a fraction of the time.\r\n\r\nOTOY’s Academy Award®-winning technology is used by leading visual effects studios, artists, animators, designers, architects, and engineers, providing unprecedented creative freedom, new levels of realism, and new economics in content creation and distribution powered by the cloud.\r\n\r\nOTOY® was founded in 2008 by Jules Urbach, Alissa Grainger and Malcolm Taylor. Since then, the company has grown to over 60 employees across four offices with headquarters in Los Angeles, CA.",
+            "ogImage": "https://rendertoken.com/assets/images/meta-card.jpg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xAC40E94A6bd9D324DFAaB254B8EE5Dc23055Ba7f",
+          "name": "rETH",
+          "symbol": "rETH",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+          "name": "Uniswap",
+          "symbol": "UNI",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png?1600306604",
+          "extensions": {
+            "link": "https://uniswap.org/",
+            "description": null,
+            "ogImage": "https://uniswap.org/twitter-card.jpg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xF6e0D68124Da7ADDa277E8DD5ec1Bc854E7363b6",
+          "name": "USDD Stablecoin",
+          "symbol": "USDD",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x6ec157ca45828EbAd9f26c491F6D710A68913a95",
+          "name": "Pax Dollar",
+          "symbol": "USDP",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/13234/large/USDP.png?1606579598",
+          "extensions": {
+            "link": "https://unit.xyz/",
+            "description": null,
+            "ogImage": "https://d3n32ilufxuvd1.cloudfront.net/5ef3621e65b4b6006f2b9e0b/2022978/screenshot-a1ba8b3d-d386-4ed8-8d0f-e00cd44e578e_readyscr_1024.jpg"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x532FEB18de6965c287F15493F7178401aB2a1912",
+          "name": "VeChain Token",
+          "symbol": "VEN",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x3F5be1e64416C7a6b6485AC97A8B3C8FF319703a",
+          "name": "The Sandbox",
+          "symbol": "SAND",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1597397942",
+          "extensions": {
+            "link": "https://www.sandbox.game/en/",
+            "description": null,
+            "ogImage": "/The-Sandbox.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x2cE0C7b4a6815f3D8eE0bF34423c65BC73B10EF9",
+          "name": "Synthetix",
+          "symbol": "SNX",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/3406/large/SNX.png?1598631139",
+          "extensions": {
+            "link": "https://www.synthetix.io/",
+            "description": "Synthetix is based in Australia, Synthetix launched a seed funding round in September, 2017 to develop the concept of a self-contained stablecoin payment network. They then kicked off their public ICO on February 28, 2018 and by the end of the ICO on March 7, 2018, they had met their goal of $30,000,000 USD. Synthetix was <a href=\"https://blog.havven.io/havven-is-transforming-into-synthetix-2fdf727b8892\">rebranded</a> from Havven on November 30, 2018.\r\n\r\nSynthetix is led by a multidisciplinary team of 13 individuals. The project was founded by Kain Warwick, who previously co-founded blueshyft, one of the largest digital payment networks in Australia. The CTO is Justin Moses, who also serves as the Director of Engineering at MongoDB. Synthetix aims to address the problem that companies running centralized payment networks such as PayPal, credit card networks, or the SWIFT banking network have “absolute control over the value within the network, so any transaction conducted within the...",
+            "ogImage": "/public/logo-x.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x93105c7A202Ea2739d94Ad7A935321A9B63E29a3",
+          "name": "Tron",
+          "symbol": "TRX",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xDc552396caEc809752fED0c5E23fd3983766e758",
+          "name": "TrueUSD",
+          "symbol": "TUSD",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/3449/large/TUSD.png?1559172762",
+          "extensions": {
+            "link": "https://www.trusttoken.com/",
+            "description": "TrueUSD provides its token holders regular attestations of escrowed balances, full collateral, and also the legal protection against misappropriating underlying USD. The team believes that TrueUSD will be able to come up with the stable trading instrument for the traders of cryptocurrency that has been long-awaited. This will allow the businesses and consumers to use the digital currency as a medium of an exchange. The goal of the TrueUSD team was to build a coin that is stable and which can be used and trusted by them too. TrustToken is a platform that creates the tokens backed by assets that can easily be purchased and sold all around the world. The first asset token of TrustToken is TrueUSD, which is a stable coin and can be redeemed 1-for-1 for US dollars. TrustToken have partnered with registered fiduciaries and banks for holding the funds securely backed by TrueUSD tokens. To increase the amount of security, fiduciaries, and banks directly handle all the funds. Escrowed funds ...",
+            "ogImage": "https://www.trusttoken.com/static/tt-social-card-8bccc7e39896ee3893eac90950f6a39b.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0xA251031D9cb743E20ed49791E35A9b1041cbe81a",
+          "name": "BNB",
+          "symbol": "BNB",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
+          "extensions": {
+            "link": "https://www.binance.com/",
+            "description": "As the native coin of Binance Chain, BNB has multiple use cases: fueling transactions on the Chain, paying for transaction fees on Binance Exchange, making in-store payments, and many more.",
+            "ogImage": null,
+            "originChainId": 56,
+            "originAddress": "0x0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x0feF0c76f042f3e57A9ca19e91285d0675D6D5bF",
+          "name": "Theta Token",
+          "symbol": "THETA",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        },
+        {
+          "chainId": 1,
+          "address": "0x76375a6d6175ace4514B5Adc2DcC3a740AB06BF9",
+          "name": "Lido Staked Ether",
+          "symbol": "stETH",
+          "decimals": 18,
+          "logoURI": "https://assets.coingecko.com/coins/images/13442/large/steth_logo.png?1608607546",
+          "extensions": {
+            "link": "https://www.lido.fi",
+            "description": "Lido Staked Ether (stETH) is a token that represents your staked ether in Lido, combining the value of initial deposit and staking rewards. stETH tokens are minted upon deposit and burned when redeemed. stETH token balances are pegged 1:1 to the ethers that are staked by Lido and the token’s balances are updated daily to reflect earnings and rewards. stETH tokens can be used as one would use ether, allowing you to earn ETH 2.0 staking rewards whilst benefiting from e.g. yields across decentralised finance products.",
+            "ogImage": "/static/images/meta/lido.png"
+          }
+        },
+        {
+          "chainId": 11155111,
+          "address": "0x47805f115eD9Dffc3506c9cB9805725FAe1cA9d3",
+          "name": "Staked AAVE",
+          "symbol": "stkAAVE",
+          "decimals": 18,
+          "logoURI": null,
+          "extensions": {
+            "link": null,
+            "description": null,
+            "ogImage": null
+          }
+        }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
